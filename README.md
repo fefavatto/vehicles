@@ -1,6 +1,6 @@
 # vehicles
 Dashboard do Projeto da Sprint 5 da Tripleten </br>
-URL: https://vehicles-jgpv.onrender.com
+URL: https://sprint5-vehicles-42du.onrender.com
 
 ## Visão Geral
 
